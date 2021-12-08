@@ -13,5 +13,5 @@ For Face Recognition we have used Python 3.6 using the Anaconda Spyder platform 
 
 ### Block Diagram
 
-<img src="F:\Atharva\TY sem II\IoT-based-Face-recognition-Robot\block diagram.png" alt="My cool logo"/>
+![alt text](https://github.com/AtharvaVidye/IoT-based-Face-recognition-Robot/blob/master/Block%20diagram.PNG?raw=true)
 
